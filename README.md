@@ -1,11 +1,13 @@
 # Test-time Fourier Style Calibration for Domain Generalization
 ### [Paper](https://arxiv.org/abs/2205.06427) | [IJCAI-ECAI 2022](https://ijcai-22.org/) | [SMiLe Lab](https://web.northeastern.edu/smilelab/)
 
-[Xingchen Zhao](https://www.xingchenzhao.com/),
-[Chang Liu](https://sites.google.com/view/cliu5/home/),
-[Anthony Sicilia](https://anthonysicilia.github.io/),
-[Seong Jae Hwang](https://micv.yonsei.ac.kr/seongjae),
-[Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/)
+[Xingchen Zhao](https://www.xingchenzhao.com/)<sup>1</sup>,
+[Chang Liu](https://sites.google.com/view/cliu5/home/)<sup>1</sup>,
+[Anthony Sicilia](https://anthonysicilia.github.io/)<sup>2</sup>,
+[Seong Jae Hwang](https://micv.yonsei.ac.kr/seongjae)<sup>2</sup>,
+[Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/)<sup>1</sup>
+
+<sup>1</sup> Northeastern University <sup>2</sup> University of Pittsburgh
 
 This is the official implementation of the paper "Test-time Fourier Style Calibration for Domain Generalization". The code will cleaned up soon. Please contact zhao.xingc@northeastern.edu or create an issue if you have any questions. Thank you for your interest.
 
