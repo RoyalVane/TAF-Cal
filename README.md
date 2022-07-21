@@ -32,7 +32,7 @@ To train the deepall, please run:
 bash pacs_deepall.sh
 ```
 
-To train TAF_Cal, please run (Comparing the results of the paper, the result produced by this code will fluctuate 0.5~0.8% up or down due to the random seed. Try multiple runs and take the average):
+To train TAF_Cal, please run (Comparing the results of the paper, the result produced by this code will fluctuate 0.5~0.8% up or down due to the random seed. (Try multiple random seeds and take the average):
 ```shell script
 bash pacs_taf_cal_train.sh
 ```
